@@ -1,0 +1,27 @@
+[{
+		"name": "How to Set Up and Use a VPN on iPhone or Android",
+		"description": "So you’ve decided you need a mobile VPN but don't know where to start or how to set one up. Don't worry, you’re not alone. Keep reading to learn how to set up a VPN on your Android or iPhone, or start using a VPN immediately by installing our simple yet powerful app.",
+		"img": "https://signal.avg.com/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/How%20to%20set%20Up%20and%20USe%20a%20VPN%20on%20your%20Mobile%20Phone/How_to_Set_Up_VPN_on_Phone-Hero.jpg"
+	},
+	{
+		"name": "Why use a mobile VPN?",
+		"description": "Today, much of your digital life exists on your mobile phone, whether iPhone or Android — mobile banking, online shopping, chatting with friends on Skype, or sharing life moments on Instagram. We may not be at Black Mirror level (yet), but there’s no denying we’re almost always connected. Despite its convenience, living online can also make you vulnerable to privacy threats, and without proper protection, information about you and your online habits could fall into the “hands” of third parties such as your Internet Service Provider (ISP), businesses, or even hackers. Using a virtual private network (VPN) on mobile helps you maintain privacy online, whether you’re at home or connected to public Wi-Fi.",
+		"img": "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/signal_images/articles/article-5734512762/03-guide-to-mobile-vpn-avg-signal-article-620x300-min.jpg"
+	}, {
+		"name": "Secure public Wi-Fi",
+		"description": "Public Wi-Fi hotspots make it easy for us to connect from almost anywhere. But unfortunately, that unsecured Wi-Fi network in Starbucks you’re connecting to from your iPhone or Android phone also makes it easy for hackers to access your connected device and intercept any sensitive info you’re sharing online (passwords, credit card details, etc.). A VPN helps you avoid the dangers of public Wi-Fi by encrypting your connection and preventing third parties from being able to see what you’re doing on the network. Be careful not to confuse a VPN with a proxy server — while both hide your IP address, a proxy server doesn’t use encryption, meaning your online data isn’t protected. Proxies are also used on an application by application basis, unlike a VPN, which is applied to all of your online traffic.",
+		"img": "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/signal_images/articles/article-5734512762/02-guide-to-mobile-vpn-avg-signal-article-620x300-min.jpg"
+	}, {
+		"name": " Browse the internet privately",
+		"description": "What you do online is your business, and using a VPN can help you keep it that way by hiding an important number called your IP address. ISPs and search engines like Google use your phone’s IP address to collect data about your online search habits. Ever notice those creepy online ads showing you products you recently searched for? Yeah, that’s essentially Google spying on you. And with the recent repeal of net neutrality rules in the United States, keeping your online data safe from your ISP’s prying eyes could become even more important in the near future.",
+		"img": "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/signal_images/articles/article-5734512762/01-guide-to-mobile-vpn-avg-signal-article-620x300-min.jpg"
+	}, {
+		"name": "Get around content blocks",
+		"description": "Depending on where you are — school, work, abroad — you may find that certain websites or online services are blocked because of copyright agreements, or, in some countries, censorship laws. Since content blocks are enforced based on your IP address, using a VPN can allow you to access content no matter where you are. Want to keep up with your HBO shows while traveling around Europe? No problem with a VPN. This is also an instance where you could use a proxy server, just don’t forget that your connection won’t be encrypted, so use a reputable service.",
+		"img": "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/signal_images/articles/article-5734512762/03-guide-to-mobile-vpn-avg-signal-article-620x300-min.jpg"
+	},{
+		"name": "How do I set up a VPN on my phone?",
+		"description": "VPNs come in all shapes and sizes, and while choosing one usually boils down to personal needs and preferences (and of course, whether you use an iPhone or Android), it’s important to understand the pros, cons, and difficulty level of your options.",
+		"img": "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/signal_images/articles/article-5734512762/01-guide-to-mobile-vpn-avg-signal-article-620x300-min.jpg"
+	}
+]
